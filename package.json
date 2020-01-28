@@ -1,0 +1,22 @@
+{
+  "name": "simplytask5",
+  "version": "1.0.0",
+  "description": "node.js streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seda1094/simplyTask5.git"
+  },
+  "author": "seda hayrapetyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seda1094/simplyTask5/issues"
+  },
+  "homepage": "https://github.com/seda1094/simplyTask5#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
